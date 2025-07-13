@@ -28,8 +28,15 @@ Compare results with the original paper to verify consistency of PSNR/Bicubic va
 
 ## 📊 Results (Set5 Average PSNR)
 
-| Scale | Method        | Bicubic (Y) | SRCNN (Paper, Y) | Mine (Y) |
-|-------|---------------|-------------|------------------|----------|
-| ×2    | PSNR (dB)     | 33.66       | 36.66            | 34.61    | 
-| ×3    | PSNR (dB)     | 30.39       | 32.75            | 30.89    | 
-| ×4    | PSNR (dB)     | 28.42       | 30.49            | 28.95    |
+| Scale | Method        | Bicubic (Paper, Y) | SRCNN (Paper, Y) | Bicubic (Mine, Y) | SRCNN (Mine, Y) |
+|-------|---------------|--------------------|------------------|-------------------|-----------------|
+| ×2    | PSNR (dB)     | 33.66              | 36.66            | 32.79             | 34.61           | 
+| ×3    | PSNR (dB)     | 30.39              | 32.75            | 29.32             | 30.89           | 
+| ×4    | PSNR (dB)     | 28.42              | 30.49            | 27.31             | 28.95           |
+
+## 📊 Results ("Butterfly" image from Set5 PSNR)
+
+| Scale | Method        | Bicubic (Paper, RGB) | SRCNN (Paper, RGB) | Bicubic (Mine, Y) | SRCNN (Mine, Y) |
+|-------|---------------|----------------------|--------------------|-------------------|-----------------|
+| ×3    | PSNR (dB)     | 24.04                | 27.95              | 23.01             | 25.75           |
+
