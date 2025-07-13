@@ -4,6 +4,10 @@ A Study on the SRCNN Paper (Super-Resolution Convolutional Neural Network)
 ## 📄 Paper
 **Link**: [https://arxiv.org/abs/1501.00092](https://arxiv.org/abs/1501.00092)
 
+**Datasets Used**:
+- [Set5 (Test Set)]([https://paperswithcode.com/dataset/set5](https://www.kaggle.com/datasets/ll01dm/set-5-14-super-resolution-dataset))
+- [T91 (Training Set)]([https://github.com/hoycg/NTIRE2017/blob/master/README.md#t91-dataset](https://www.kaggle.com/datasets/ll01dm/t91-image-dataset))
+  
 ---
 
 ## 📌 Project Objective
