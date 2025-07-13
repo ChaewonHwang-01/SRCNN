@@ -40,3 +40,8 @@ Compare results with the original paper to verify consistency of PSNR/Bicubic va
 |-------|---------------|----------------------|--------------------|-------------------|-----------------|
 | ×3    | PSNR (dB)     | 24.04                | 27.95              | 23.01             | 25.75           |
 
+📎 *Note: SRCNN was originally designed for the Y (luminance) channel. 
+RGB evaluation was performed only at scale ×3 in this project to examine full-color reconstruction performance.*
+
+---
+
