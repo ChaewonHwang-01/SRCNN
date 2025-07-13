@@ -1,7 +1,7 @@
 # SRCNN
 A Study on the SRCNN Paper (Super-Resolution Convolutional Neural Network)
 
-## 📄 Paper
+## 📄 Paper & Datasets
 **Link**: [https://arxiv.org/abs/1501.00092](https://arxiv.org/abs/1501.00092)
 
 **Datasets Used**:
@@ -14,6 +14,7 @@ A Study on the SRCNN Paper (Super-Resolution Convolutional Neural Network)
 This repository reproduces the SRCNN model and validates its results on:
 - **Y-channel only (luminance)**
 - **RGB channels**
+
 Compare results with the original paper to verify consistency of PSNR/Bicubic values.
 
 ---
