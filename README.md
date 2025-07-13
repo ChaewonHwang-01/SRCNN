@@ -15,7 +15,7 @@ This repository reproduces the SRCNN model and validates its results on:
 - **Y-channel only (luminance)**
 - **RGB channels**
 
-Compare results with the original paper to verify consistency of PSNR/Bicubic values.
+Compare results with the original paper to verify consistency of PSNR values.
 
 ---
 
