@@ -36,12 +36,17 @@ Compare results with the original paper to verify consistency of PSNR/Bicubic va
 
 ## 📊 Results ("Butterfly" image from Set5 PSNR)
 
-| Scale | Method        | Bicubic (Paper, RGB) | SRCNN (Paper, RGB) | Bicubic (Mine, Y) | SRCNN (Mine, Y) |
-|-------|---------------|----------------------|--------------------|-------------------|-----------------|
-| ×3    | PSNR (dB)     | 24.04                | 27.95              | 23.01             | 25.75           |
+| Scale | Method        | Bicubic (Paper, RGB) | SRCNN (Paper, RGB) | Bicubic (Mine, RGB) | SRCNN (Mine, RGB) |
+|-------|---------------|----------------------|--------------------|---------------------|-------------------|
+| ×3    | PSNR (dB)     | 24.04                | 27.95              | 23.01               | 25.75             |
 
 📎 *Note: SRCNN was originally designed for the Y (luminance) channel. 
 RGB evaluation was performed only at scale ×3 in this project to examine full-color reconstruction performance.*
 
 ---
 
+## 📸 Visual Comparison (RGB, "Butterfly" image from Set5 with an upscaling factor 3)
+| HR RGB | Bicubic (Paper, RGB) | SRCNN (Paper, RGB) | Bicubic (Mine, RGB) | SRCNN (Mine, RGB) |
+|--------|----------------------|--------------------|---------------------|-------------------|
+|<img width="232" height="230" alt="image" src="https://github.com/user-attachments/assets/335bb81a-215b-4a81-a77a-5628bd4a39f6" />
+|----------------------|--------------------|---------------------|-------------------|
