@@ -48,9 +48,4 @@ RGB evaluation was performed only at scale ×3 in this project to examine full-c
 ## 📸 Visual Comparison (RGB, "Butterfly" image from Set5 with an upscaling factor 3)
 | HR RGB | Bicubic (Paper, RGB) | SRCNN (Paper, RGB) | Bicubic (Mine, RGB) | SRCNN (Mine, RGB) |
 |--------|----------------------|--------------------|---------------------|-------------------|
-|<img width="232" height="230" alt="image" src="https://github.com/user-attachments/assets/335bb81a-215b-4a81-a77a-5628bd4a39f6" />
-|<img width="179" height="182" alt="image" src="https://github.com/user-attachments/assets/d814d356-b2ae-42b9-b702-2e2b61b0ef59" />
-|<img width="181" height="182" alt="image" src="https://github.com/user-attachments/assets/00555592-97ec-4d1c-bd8b-aa30704c9f35" />
-|<img width="230" height="230" alt="image" src="https://github.com/user-attachments/assets/2b15b843-5f74-487f-80d4-8e87dbceb68c" />
-|<img width="230" height="230" alt="image" src="https://github.com/user-attachments/assets/7667994c-7b25-4de0-b26c-6577b2f93dd8" />
-|
+| <img width="232" height="230" src="https://github.com/user-attachments/assets/335bb81a-215b-4a81-a77a-5628bd4a39f6" /> | <img width="179" height="182" src="https://github.com/user-attachments/assets/d814d356-b2ae-42b9-b702-2e2b61b0ef59" /> | <img width="181" height="182" src="https://github.com/user-attachments/assets/00555592-97ec-4d1c-bd8b-aa30704c9f35" /> | <img width="230" height="230" src="https://github.com/user-attachments/assets/2b15b843-5f74-487f-80d4-8e87dbceb68c" /> | <img width="230" height="230" src="https://github.com/user-attachments/assets/7667994c-7b25-4de0-b26c-6577b2f93dd8" /> |
